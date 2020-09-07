@@ -1,0 +1,4 @@
+#Fri Mar 01 13:35:15 SGT 2019
+base.0=D\:\\Bai tap\\mobile slide\\project\\Project1\\Lab1-20190223T143941Z-001\\Lab1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
