@@ -1,6 +1,6 @@
 # Video Streaming
 
-> An simple Android app that streaming videos from variable of channels from Vietnam.
+> An Android app that streaming videos from variable of channels from Vietnam.
 
 # Components
 
