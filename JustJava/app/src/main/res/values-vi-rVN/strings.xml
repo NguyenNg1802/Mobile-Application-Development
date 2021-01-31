@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="input_name">Nhập họ tên</string>
+    <string name="input_toppings">Chọn thạch ăn kèm</string>
+    <string name="input_quantity">Số lượng</string>
+    <string name="order_summary">Đơn hàng</string>
+    <string name="order_button">Đặt hàng</string>
+</resources>

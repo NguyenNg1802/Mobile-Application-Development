@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="input_name">Input your name</string>
+    <string name="input_toppings">Toppings</string>
+    <string name="input_quantity">Quantity</string>
+    <string name="order_summary">Order summary</string>
+    <string name="order_button">Order</string>
+</resources>
